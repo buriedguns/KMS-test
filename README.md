@@ -1,7 +1,8 @@
 # KMS-test
 
 ### Tests installation and run
-- clone the repository from github
+- Instal chrome and chromedriver
+- Clone the repository from github
 - Install python3
 ```
 https://www.python.org/downloads/
